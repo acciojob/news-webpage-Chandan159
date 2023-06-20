@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.header{
+	background:#011e29;
+	height:50px;
+	text-align:center;
+	color:white;
+	padding:25px
+
+.holder{
+	display:flex;
+}
+div .img{
+	width:100px;
+	height:100px;
+}
+
+	
+	
+}
